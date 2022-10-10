@@ -19,7 +19,8 @@
     "dayjs": "^1.10.7",
     "handlebars": "^4.7.7",
     "puppeteer-core": "^12.0.1",
-    "serverless": "^3.22.0"
+    "serverless": "^3.22.0",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@serverless/typescript": "^3.21.0",
